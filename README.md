@@ -6,4 +6,4 @@ This repo contains tutorials on the topic of Natural Language Processing (NLP) i
 - The "Topic Modeling BERT+LDA" tutorial posted on [Kaggle](https://www.kaggle.com/code/dskswu/topic-modeling-bert-lda) by [William Green](https://www.kaggle.com/dskswu)
 - The "LDA Topic Modelling in Python" [Medium article](https://medium.com/swlh/lda-topic-modelling-in-python-7e9d08a64f33) posted by George Pipis.
 - The Topic Modelling [GitHub Textbook](https://github.com/wjbmattingly/topic_modeling_textbook/blob/main/02_03_setting_up_tf_idf.ipynb) posted by wjbmattingly.
-- The Topic Modeling with BERT [Medium](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6)article by Maarten Grootendorst.
+- The Topic Modeling with BERT [Medium](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6) article by Maarten Grootendorst.
